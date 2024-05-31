@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T00:12:43.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="T1mCk_YWLDba_4w_rYKh" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T20:52:22.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BML5DuFXWIpedNicG6jz" version="24.4.10" type="github">
   <diagram name="Page-1" id="vJvDlfiKCZS7DFUN6EC2">
     <mxGraphModel dx="2591" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,15 +111,6 @@
         </mxCell>
         <mxCell id="qNsIm5-2N9fvW92eKWjR-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;e-mail address :&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qNsIm5-2N9fvW92eKWjR-45">
           <mxGeometry x="290" y="149.5" width="180" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="qNsIm5-2N9fvW92eKWjR-63" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="qNsIm5-2N9fvW92eKWjR-45">
-          <mxGeometry x="300" y="290" width="390" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="qNsIm5-2N9fvW92eKWjR-64" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="qNsIm5-2N9fvW92eKWjR-45">
-          <mxGeometry x="310" y="310" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qNsIm5-2N9fvW92eKWjR-65" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Hello there, my name is StratiBot! How can I help you?&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qNsIm5-2N9fvW92eKWjR-45">
-          <mxGeometry x="370" y="320" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qNsIm5-2N9fvW92eKWjR-66" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;club :&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qNsIm5-2N9fvW92eKWjR-45">
           <mxGeometry x="300" y="190" width="140" height="30" as="geometry" />
